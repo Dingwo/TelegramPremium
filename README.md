@@ -1,9 +1,5 @@
 # TelegramPremium
 TelegramPremium TG飞机会员充值机器人 搭建源码
-# TelegramPremium
-
-TelegramPremium TG飞机会员充值机器人 搭建源码
-
 **主要功能：**
 
 1.机器人在线购买TelegramPremium 会员
